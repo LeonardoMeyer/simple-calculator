@@ -1,6 +1,6 @@
 # Calculator - Tkinter
 
-## 🔫 Beschreibung (Deutsch) | 🇬🇧 Description (English)
+## 🇩🇪 Beschreibung (Deutsch) | 🇬🇧 Description (English)
 Diese einfache Taschenrechner-App wurde mit Python und Tkinter entwickelt. Sie unterstützt grundlegende mathematische Operationen und bietet eine benutzerfreundliche Oberfläche.
 
 This simple calculator app is built using Python and Tkinter. It supports basic mathematical operations and provides a user-friendly interface.
