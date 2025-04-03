@@ -31,7 +31,7 @@ all_values = ''
 # function
 def into_value(value):
     global all_values
-    all_values = all_values + str(event)
+    all_values = all_values + str(value)
 
     #result in screen
     text_value.set(all_values)
