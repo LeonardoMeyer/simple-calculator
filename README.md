@@ -59,5 +59,3 @@ python calculator.py
 
 ## 👥 Autor | Author
 [Leonardo meyer] - GitHub: [Leonardomeyer]
-
-
